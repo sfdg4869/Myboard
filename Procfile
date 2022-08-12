@@ -1,0 +1,1 @@
+web : guniconr my board.wsgi
